@@ -1,16 +1,8 @@
-# my_expenses_planner
+# Expenses planner
 
-A new Flutter project.
+A flutter project designed to help with you monthly and daily expenses, with the possibilitie of categorizing different expenses and being able to easily visualize then.
 
-## Getting Started
+## Running
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can simply download the entire repository and run the main.dart file on you Flutter Supported IDE. The App was designed for a Android VM with a dp of 393x786 and resolution of 1080 x 2160. It should work with other resolutions thanks to responsive design, but cannot guarantee full support to all dp/resolutions.
+Feel free to create your account and start messing around. Any feedback on bugs encountered will be appreciated.
